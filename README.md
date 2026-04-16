@@ -1,6 +1,13 @@
-# practice-data-analysis
-#This repository is for leaning pandas and matplotlib.
+# practice Data Analysis
+This repository is for learning pandas and matplotlib.
 
-# Goal
-#- learn data analysis basics
-#- Practice visualization
+## Goal
+- learn data analysis basics
+- Practice visualization
+
+## Tools
+- pandas
+- matplotlib
+
+## Status
+- In progress
